@@ -1,1 +1,1 @@
-# simple-counter-app-and-first-testing
+# Simple Counter App with Jest and Enzyme testing
